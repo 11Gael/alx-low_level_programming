@@ -15,7 +15,4 @@ void swap_int(int *a, int *b)
 	*b = n;
 }
 
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
+    
